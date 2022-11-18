@@ -1,8 +1,8 @@
 //共寫三個功能 ，一、代入套票資料  2. 篩選 3. 新增套票
 
-import axios from '../node_modules/axios/dist/esm/axios.js';
+// import axios from '../node_modules/axios/dist/esm/axios.js';
 
-// import axios from 'axios';
+import axios from './axios.js';
 // import axios from './axios';
 
 
